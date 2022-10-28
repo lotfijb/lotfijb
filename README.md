@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lotfi Jbeli</h1>
-<h3 align="center">A passionate computer science student and front end developer</h3>
+<h3 align="center">Computer science student and front end developer. Passionate about blockchain technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lotfijb&label=Profile%20views&color=0e75b6&style=flat" alt="lotfijb" /> </p>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/lotfijbe" target="blank"><img src="https://img.shields.io/twitter/follow/lotfijbe?logo=twitter&style=for-the-badge" alt="lotfijbe" /></a> </p>
 
-- 🌱 I’m currently learning **React,SQL,PHP**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [lotfijbeli.netlify.app](lotfijbeli.netlify.app)
 
