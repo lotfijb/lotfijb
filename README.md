@@ -15,6 +15,10 @@
 
 - 📫 How to reach me **lotfi.jbeli@etudiant-isi.utm.tn**
 
+- 💻 Currently working on : [HTML-CSS-FOR-BEGINNERS](https://github.com/lotfijb/html-css-for-beginners)
+
+- ✔️ Completed [Hacktoberfest 2022](https://hacktoberfest.com)
+
 - ⚡ Fun fact **I can do a redirect double touch in Rocket League :)**
 
 <h3 align="left">Connect with me:</h3>
