@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lotfi.jbeli@etudiant-isi.utm.tn**
 
-- 💻 Currently working on : [HTML-CSS-FOR-BEGINNERS](https://github.com/lotfijb/html-css-for-beginners)
+- 💻 Currently working on : [HTML & CSS for beginners](https://github.com/lotfijb/html-css-for-beginners) and [Updated portfolio with React](https://github.com/lotfijb/lotfijb_portfolio)
 
 - ✔️ Completed [Hacktoberfest 2022](https://hacktoberfest.com)
 
