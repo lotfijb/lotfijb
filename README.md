@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://twitter.com/lotfijbe" target="blank"><img src="https://img.shields.io/twitter/follow/lotfijbe?logo=twitter&style=for-the-badge" alt="lotfijbe" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently taking [The Frontend Developer Career Path by Scrimba](https://scrimba.com/learn/frontend)
 
 - 👨‍💻 All of my projects are available at [lotfijbeli.netlify.app](lotfijbeli.netlify.app)
 
