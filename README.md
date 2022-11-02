@@ -19,7 +19,7 @@
 
 - ✔️ Completed [Hacktoberfest 2022](https://hacktoberfest.com)
 
-- ⚡ Fun fact **I can do a redirect double touch in Rocket League :)**
+- ⚡ Fun fact **I can do a redirect double touch in Rocket League 😃**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
