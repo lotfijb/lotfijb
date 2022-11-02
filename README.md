@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lotfi Jbeli</h1>
-<h3 align="center">Computer science student and front end developer. Passionate about blockchain technology</h3>
+<h3 align="center">Computer science student and front end developer. Passionate about blockchain technology. I encourage open collaboration and open source projects.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lotfijb&label=Profile%20views&color=0e75b6&style=flat" alt="lotfijb" /> </p>
 
