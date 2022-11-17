@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **lotfi.jbeli@etudiant-isi.utm.tn**
 
-- 💻 Currently working on : Animit.CSS ( I will publish it ASAP )
+- 💻 Currently working on : [Building a browser extension](https://github.com/lotfijb/bullet-journal-extension)
 
 - ✔️ Completed [Hacktoberfest 2022](https://hacktoberfest.com)
 
