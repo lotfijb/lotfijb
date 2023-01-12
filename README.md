@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently taking [The Frontend Developer Career Path by Scrimba](https://scrimba.com/learn/frontend)
 
-- 👨‍💻 All of my projects are available at [lotfijbeli.netlify.app](https://lotfijbeli.netlify.app)
+- 👨‍💻 All of my projects are available at [lotfijb.netlify.app](https://lotfijb.netlify.app)
 
 - 📫 How to reach me **lotfi.jbeli@etudiant-isi.utm.tn**
 
