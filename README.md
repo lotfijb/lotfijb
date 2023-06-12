@@ -12,11 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [lotfijb.netlify.app](https://lotfijb.netlify.app)
 
-- 📫 How to reach me **lotfi.jbeli@etudiant-isi.utm.tn**
+- 📫 How to reach me **lotfijbeli.jbeli@gmail.com**
 
 - ✔️ Completed [Hacktoberfest 2022](https://hacktoberfest.com)
 
 - ⚡ Fun fact **I can do a redirect double touch in Rocket League 😃**
+
+- Currently learning Solidity
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
