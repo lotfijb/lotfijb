@@ -14,10 +14,6 @@
 
 - 📫 How to reach me **lotfijbeli.jbeli@gmail.com**
 
-- ✔️ Completed [Hacktoberfest 2022](https://hacktoberfest.com)
-
-- ⚡ Fun fact **I can do a redirect double touch in Rocket League 😃**
-
 - Currently learning Solidity
 
 <h3 align="center">Connect with me:</h3>
