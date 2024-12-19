@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [My SaaS : CodeCompanion](https://codecompanion-trial.vercel.app/) & Freelance Project<br>🌱 I’m currently learning Solidity<br>⚡ Fun fact : Better you don't know 
+🔭 I’m currently working on [My SaaS : Fitly Space](https://beta.fitly.space) & I am a full time full stack developer.<br>⚡ Fun fact : Better you don't know 
 
 
 ## 🌐 Socials:
