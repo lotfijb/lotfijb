@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [My SaaS : Fitly Space](https://beta.fitly.space) & I am a full time full stack developer.<br>⚡ Fun fact : Better you don't know 
+🔭 I am a full time full stack developer.<br>⚡ Fun fact : Better you don't know 
 
 
 ## 🌐 Socials:
